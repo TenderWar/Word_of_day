@@ -1,0 +1,7 @@
+python-telegram-bot==22.7
+google-genai==1.9.0
+gTTS==2.5.4
+aiosqlite==0.22.1
+APScheduler==3.11.2
+python-dotenv==1.2.2
+pytz==2026.1.post1
