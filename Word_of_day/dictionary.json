@@ -1,0 +1,182 @@
+[
+  {
+    "word": "resilience",
+    "transcription": "/rɪˈzɪliəns/",
+    "translations": ["стійкість", "пружність", "витривалість"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "ephemeral",
+    "transcription": "/ɪˈfemərəl/",
+    "translations": ["ефемерний", "короткочасний", "минущий"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "serendipity",
+    "transcription": "/ˌserənˈdɪpəti/",
+    "translations": ["щасливий випадок", "несподівана знахідка"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "ubiquitous",
+    "transcription": "/juːˈbɪkwɪtəs/",
+    "translations": ["повсюдний", "вездесущий"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "meticulous",
+    "transcription": "/məˈtɪkjələs/",
+    "translations": ["ретельний", "скрупульозний", "педантичний"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "eloquent",
+    "transcription": "/ˈeləkwənt/",
+    "translations": ["красномовний", "переконливий"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "pragmatic",
+    "transcription": "/præɡˈmætɪk/",
+    "translations": ["прагматичний", "практичний"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "ambiguous",
+    "transcription": "/æmˈbɪɡjuəs/",
+    "translations": ["неоднозначний", "двозначний"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "procrastinate",
+    "transcription": "/prəˈkræstɪneɪt/",
+    "translations": ["зволікати", "відкладати"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "perseverance",
+    "transcription": "/ˌpɜːsɪˈvɪərəns/",
+    "translations": ["наполегливість", "завзятість"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "conundrum",
+    "transcription": "/kəˈnʌndrəm/",
+    "translations": ["загадка", "дилема", "головоломка"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "scrutinize",
+    "transcription": "/ˈskruːtənaɪz/",
+    "translations": ["ретельно вивчати", "аналізувати"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "tenacious",
+    "transcription": "/təˈneɪʃəs/",
+    "translations": ["наполегливий", "цепкий", "стійкий"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "verbose",
+    "transcription": "/vɜːˈbəʊs/",
+    "translations": ["багатослівний", "розлогий"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "mitigate",
+    "transcription": "/ˈmɪtɪɡeɪt/",
+    "translations": ["пом'якшувати", "зменшувати"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "inevitable",
+    "transcription": "/ɪnˈevɪtəbl/",
+    "translations": ["неминучий", "невідворотний"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "amalgamate",
+    "transcription": "/əˈmælɡəmeɪt/",
+    "translations": ["об'єднувати", "зливати"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "nuance",
+    "transcription": "/ˈnjuːɑːns/",
+    "translations": ["нюанс", "відтінок"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "quintessential",
+    "transcription": "/ˌkwɪntɪˈsenʃl/",
+    "translations": ["типовий", "найхарактерніший"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "exacerbate",
+    "transcription": "/ɪɡˈzæsəbeɪt/",
+    "translations": ["загострювати", "погіршувати"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "paradigm",
+    "transcription": "/ˈpærədaɪm/",
+    "translations": ["парадигма", "зразок", "модель"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "candid",
+    "transcription": "/ˈkændɪd/",
+    "translations": ["щирий", "відвертий", "прямий"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "leverage",
+    "transcription": "/ˈlevərɪdʒ/",
+    "translations": ["використовувати", "важіль впливу"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "eclectic",
+    "transcription": "/ɪˈklektɪk/",
+    "translations": ["еклектичний", "різноманітний"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "coherent",
+    "transcription": "/kəʊˈhɪərənt/",
+    "translations": ["послідовний", "зв'язний", "логічний"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "juxtapose",
+    "transcription": "/ˌdʒʌkstəˈpəʊz/",
+    "translations": ["зіставляти", "порівнювати"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "synergy",
+    "transcription": "/ˈsɪnədʒi/",
+    "translations": ["синергія", "взаємодія"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "obsolete",
+    "transcription": "/ˈɒbsəliːt/",
+    "translations": ["застарілий", "вийшов з ужитку"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "catalyst",
+    "transcription": "/ˈkætəlɪst/",
+    "translations": ["каталізатор", "поштовх"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "intricate",
+    "transcription": "/ˈɪntrɪkət/",
+    "translations": ["складний", "заплутаний"],
+    "part_of_speech": "adjective"
+  }
+]
